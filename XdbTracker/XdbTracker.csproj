@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\ReleaseProfile.pubxml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -104,7 +105,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="sitecore modules\Web\XdbTracker\track.min.js" />
-    <Content Include="sitecore modules\Web\XdbTracker\track.js" />
+    <None Include="sitecore modules\Web\XdbTracker\track.js" />
     <None Include="packages.config" />
     <Content Include="sitecore modules\Web\XdbTracker\Track.ashx" />
     <None Include="Web.Debug.config">
