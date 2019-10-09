@@ -23,7 +23,7 @@ Usage is simple:
 
 - Reference track.min.js in your layout track.min.js in your layout (its only ~380bytes) 
 	```<script src='/sitecore modules/web/xdbtracker/track.min.js</script> ```
-- Copy binaries and files from the /release folder to your webroot or integrate them into your build
+- Copy binaries and files from the [Release ZIP](https://github.com/lowedown/XdbTracker/releases/latest) folder to your webroot or integrate them into your build
 
 
 ## Technical details
