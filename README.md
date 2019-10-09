@@ -21,8 +21,9 @@ Usage is simple:
 
 ## Setup
 
-- Reference /sitecore modules/web/xdbtracker/track.min.js in your layout (its only ~380bytes) 
-- Copy binaries and files from the release folder to your webroot
+- Reference track.min.js in your layout track.min.js in your layout (its only ~380bytes) 
+	```<script src='/sitecore modules/web/xdbtracker/track.min.js</script> ```
+- Copy binaries and files from the /release folder to your webroot or integrate them into your build
 
 
 ## Technical details
