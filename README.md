@@ -1,4 +1,4 @@
-# Client-side event tracking for Sitecore 9.x
+# Client-side event tracking for Sitecore 9.x - 10.x
 
 XdbTracker is a simple API that allows you to trigger events / goals and outcomes through Javascript. The events are automatically associated to the user's current session and current page.
 
